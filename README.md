@@ -1,18 +1,104 @@
-# React + Vite
+ # 🌍 CivicSignal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my work as a Software Developer with a focus on Data, Technology, and Human Rights.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 About the Project
 
-## React Compiler
+**CivicSignal** is a modern portfolio web application built using React and TailwindCSS.  
+It highlights my technical skills, projects, and interest in how technology can be used to improve transparency, accountability, and human rights awareness.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+This project was designed to demonstrate:
+- Clean UI/UX design
+- Component-based architecture
+- Real-world project presentation
+- Professional web development practices
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## 🧠 Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The goal of this project is to present my work and interests in:
+- Software development
+- Data science
+- Human rights and civic technology
+
+It is also part of my application for internships in organizations focused on social impact and technology (e.g., Amnesty International Kenya).
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+---
+
+## 📁 Project Structure
+src/
+├── components/
+│ └── Navbar.jsx
+├── pages/
+│ └── LandingPage.jsx
+├── App.jsx
+├── main.jsx
+
+---
+
+## ✨ Features
+
+- Responsive landing page
+- Clean navigation bar
+- Project showcase section
+- About section with personal background
+- Contact section
+- Fast and lightweight UI
+
+---
+
+## 📸 Preview
+
+*(Add screenshot here after deployment)*
+
+Example:
+```
+/public/preview.png
+```
+
+---
+
+## 🌐 Live Demo
+
+👉 Coming soon (after deployment on Vercel)
+
+Or replace with:
+```
+https://your-project.vercel.app
+```
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone  https://github.com/abdinoor12345/dataforrights
+Navigate into the project:
+
+cd civicsignal
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
+npm run dev
+
+Build for production:
+
+npm run build
