@@ -4,7 +4,7 @@ A personal portfolio website showcasing my work as a Software Developer with a f
 
 ---
 
-## 🚀 About the Project
+## About the Project
 
 **CivicSignal** is a modern portfolio web application built using React and TailwindCSS.  
 It highlights my technical skills, projects, and interest in how technology can be used to improve transparency, accountability, and human rights awareness.
@@ -17,7 +17,7 @@ This project was designed to demonstrate:
 
 ---
 
-## 🧠 Purpose
+## Purpose
 
 The goal of this project is to present my work and interests in:
 - Software development
@@ -28,7 +28,7 @@ It is also part of my application for internships in organizations focused on so
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React (Vite)
 - Tailwind CSS
@@ -59,27 +59,7 @@ src/
 
 ---
 
-## 📸 Preview
-
-*(Add screenshot here after deployment)*
-
-Example:
-```
-/public/preview.png
-```
-
----
-
-## 🌐 Live Demo
-
-👉 Coming soon (after deployment on Vercel)
-
-Or replace with:
-```
-https://your-project.vercel.app
-```
-
----
+ 
 
 ## 📦 Installation & Setup
 
