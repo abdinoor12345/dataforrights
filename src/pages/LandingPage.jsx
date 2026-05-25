@@ -566,6 +566,14 @@ export default function Portfolio() {
               </Link>
             ))}
           </div>
+          <div style={{ textAlign: "center", marginTop: "2.5rem" }}>
+            <Link to="/report" style={{
+              fontFamily: "Helvetica Neue, sans-serif", fontSize: "13px", letterSpacing: "0.08em",
+              color: "#111", fontWeight: 600, textDecoration: "none",
+            }}>
+              View all posts
+            </Link>
+          </div>
         </div>
       </section>
 
